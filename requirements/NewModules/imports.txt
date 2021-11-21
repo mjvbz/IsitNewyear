@@ -1,0 +1,5 @@
+import datetime
+
+This is one of the main import on this project he date is automatically finded 
+and displayed by this modules you can just test the datetime module by checking datetime.py
+file and just running the file in you terminal with python file_name.py
